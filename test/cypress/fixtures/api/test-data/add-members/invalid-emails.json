@@ -1,0 +1,65 @@
+[
+    {
+        "firstName": "at",
+        "lastName": "invalid-email",
+        "title": "QA",
+        "company": "Testing Company",
+        "phoneNumber": "",
+        "website": "",
+        "email": "invalid-email"
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-email",
+        "title": "QA",
+        "company": "Testing Company",
+        "phoneNumber": "",
+        "website": "",
+        "email": "invalid-email@"
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-email",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "",
+        "website": "",
+        "email": "invalid-email@gmail"
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-email",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "",
+        "website": "",
+        "email": "invalid-email@111.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-email",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "",
+        "website": "",
+        "email": "invalid-email@yahoo."
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-email",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "",
+        "website": "",
+        "email": "invalid-emailgmail@.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-email",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "",
+        "website": "",
+        "email": "invalid-emailgmail@com."
+    }
+]

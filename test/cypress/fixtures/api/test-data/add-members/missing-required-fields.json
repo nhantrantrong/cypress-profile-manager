@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "",
+        "lastName": "member-missing-required",
+        "title": "QA",
+        "company": "Testing Company",
+        "phoneNumber": "12312445",
+        "website": "https://www.google.com",
+        "email": "at-missing-required@gmail.com"
+    },
+    {
+        "firstName": "member-missing-required",
+        "lastName": "",
+        "title": "QA",
+        "company": "Testing Company",
+        "phoneNumber": "12312445",
+        "website": "https://www.google.com",
+        "email": "at-missing-required@gmail.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "member-missing-required",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "12312445",
+        "website": "https://www.google.com",
+        "email": "at-missing-required@gmail.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "member-missing-required",
+        "title": "QA",
+        "company": "",
+        "phoneNumber": "12312445",
+        "website": "https://www.google.com",
+        "email": "at-missing-required@gmail.com"
+    }
+]

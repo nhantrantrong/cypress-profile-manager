@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "at",
+        "lastName": "invalid-phone-numbers",
+        "title": "QA",
+        "company": "Testing Company",
+        "phoneNumber": "911",
+        "website": "https://www.google.com",
+        "email": "at-invalid-phone-numbers@gmail.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-phone-numbers",
+        "title": "QA",
+        "company": "Testing Company",
+        "phoneNumber": "abcdef",
+        "website": "https://www.google.com",
+        "email": "at-invalid-phone-numbers@gmail.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-phone-numbers",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "'--",
+        "website": "https://www.google.com",
+        "email": "at-invalid-phone-numbers@gmail.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "invalid-phone-numbers",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "0938435679324562",
+        "website": "https://www.google.com",
+        "email": "at-invalid-phone-numbers@gmail.com"
+    }
+]

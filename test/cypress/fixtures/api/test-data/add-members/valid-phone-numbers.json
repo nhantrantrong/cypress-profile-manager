@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "at",
+        "lastName": "valid-phone-numbers",
+        "title": "QA",
+        "company": "Testing Company",
+        "phoneNumber": "0938564532",
+        "website": "https://www.google.com",
+        "email": "at-valid-phone-numbers@gmail.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "valid-phone-numbers",
+        "title": "QA",
+        "company": "Testing Company",
+        "phoneNumber": "+84 283-456-7890",
+        "website": "https://www.google.com",
+        "email": "at-valid-phone-numbers@gmail.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "valid-phone-numbers",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "(0244) 123 4567",
+        "website": "https://www.google.com",
+        "email": "at-valid-phone-numbers@gmail.com"
+    },
+    {
+        "firstName": "at",
+        "lastName": "valid-phone-numbers",
+        "title": "",
+        "company": "Testing Company",
+        "phoneNumber": "(+65) 955.514.88",
+        "website": "https://www.google.com",
+        "email": "at-valid-phone-numbers@gmail.com"
+    }
+]
